@@ -1,5 +1,5 @@
 # PART-a --------------------->
-
+print("PART-A")
 # Code to calculate total number of combinations
 total_combination = 6 * 6
 print("Total number of possible combinations :", total_combination)
@@ -30,6 +30,7 @@ for key, value in p.items():
     
     
 # PART-B --------------------->  
+print("\n\nPART-B")
 
 def undoom_dice(die_a, die_b):
     # Calculate probabilities of all possible sums
